@@ -1,5 +1,9 @@
 name: Production deployment
 
+branding:
+  icon: 'award'  
+  color: 'green'
+
 on: 
   push:
     branches:
